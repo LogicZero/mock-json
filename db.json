@@ -1,7 +1,7 @@
 {
   "user": [
     {
-      "userid": "subash",
+      "name": "subash",
       "dob": "01/01/1990",
       "ssn": "222-22-2222",
       "isEmailVerified": true,
@@ -9,7 +9,7 @@
     },
      {
       "name": "prerak",
-      "password": "01/01/1990",
+      "dob": "01/01/1990",
       "ssn":"222-22-2222" ,
       "isEmailVerified": false,
       "hasSecretQuestions": true,
@@ -17,7 +17,7 @@
     },
      {
       "name": "reetesh",
-      "password": "01/01/1990",
+      "dob": "01/01/1990",
       "ssn":"222-22-2222" ,
       "isEmailVerified": false,
       "hasSecretQuestions": false
@@ -25,7 +25,7 @@
   ],
   
   "subash":{
-      "userid": "subash",
+      "name": "subash",
       "dob": "01/01/1990",
       "ssn": "222-22-2222",
       "isEmailVerified": true,
@@ -34,7 +34,7 @@
   ,
   "reetesh": {
       "name": "reetesh",
-      "password": "01/01/1990",
+      "dob": "01/01/1990",
       "ssn":"222-22-2222" ,
       "isEmailVerified": false,
       "hasSecretQuestions": false
@@ -42,7 +42,7 @@
   ,
   "prerak":{
       "name": "prerak",
-      "password": "01/01/1990",
+      "dob": "01/01/1990",
       "ssn":"222-22-2222" ,
       "isEmailVerified": false,
       "hasSecretQuestions": true,
