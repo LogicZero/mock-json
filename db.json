@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "userid": "subash",
+      "dob": "01/01/1990",
+      "ssn": "222-22-2222",
+      "isEmailVerified": true,
+      "email": "sbhandari@example.com"
+    },
+     {
+      "name": "prerak",
+      "password": "01/01/1990",
+      "ssn":"222-22-2222" ,
+      "isEmailVerified": false,
+      "hasSecretQuestions": true,
+      "secretQuestions":"what is your name?"
+    },
+     {
+      "name": "reetesh",
+      "password": "01/01/1990",
+      "ssn":"222-22-2222" ,
+      "isEmailVerified": false,
+      "hasSecretQuestions": false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
